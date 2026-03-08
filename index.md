@@ -28,6 +28,13 @@ Large language models (LLMs) are widely employed for reflective error correction
   </iframe>
 </div>
 
+## Video
+<div align='center'>
+  <video id="video" controls preload="none" width="600" height="340" poster="作者(图片地址)" autoplay>
+    <source id="mp4" src="./fisrf.mp4" type="video/mp4">
+  </video>
+</div>
+
 ## Results
 Performance of our FISRF in an AlfWorld example:
 
